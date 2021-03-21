@@ -1,0 +1,13 @@
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\bin\Debug\netcoreapp3.1\Big_and_small_char.exe
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\bin\Debug\netcoreapp3.1\Big_and_small_char.deps.json
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\bin\Debug\netcoreapp3.1\Big_and_small_char.runtimeconfig.json
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\bin\Debug\netcoreapp3.1\Big_and_small_char.runtimeconfig.dev.json
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\bin\Debug\netcoreapp3.1\Big_and_small_char.dll
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\bin\Debug\netcoreapp3.1\Big_and_small_char.pdb
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\obj\Debug\netcoreapp3.1\Big_and_small_char.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\obj\Debug\netcoreapp3.1\Big_and_small_char.AssemblyInfoInputs.cache
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\obj\Debug\netcoreapp3.1\Big_and_small_char.AssemblyInfo.cs
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\obj\Debug\netcoreapp3.1\Big_and_small_char.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\obj\Debug\netcoreapp3.1\Big_and_small_char.dll
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\obj\Debug\netcoreapp3.1\Big_and_small_char.pdb
+F:\YURKO\SHAG\Project C#\02_14032021_Lab_Metod_Array_String\Homework_Array_String\Homework_Array_String\Big_and_small_char\obj\Debug\netcoreapp3.1\Big_and_small_char.genruntimeconfig.cache
